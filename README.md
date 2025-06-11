@@ -25,6 +25,7 @@ To your convinence, we have provide the downlading link. If you have concern abo
 4. Firmware (any version you prefer, preferably the latest one)
 
 ![Alt text](Assets/images/DownloadingFiles.png)
+
 <br/>
 
 ## Ready to rock
@@ -34,7 +35,9 @@ To your convinence, we have provide the downlading link. If you have concern abo
 ![Alt text](Assets/images/ESP32.setting.png)
 
 ![Alt text](Assets/images/Finished.jpg)
+
 <br/>
+
 2. Connect the ESP32 programmer to the Slim Jim / Double Barrel / Double Barrel 5G via the 4-pin cable: 
 a. 3.3V to 3.3V 
 b. TX to TX 
@@ -46,16 +49,22 @@ The GPIO pins arrangement is identical between Slim Jim / Double Barrel / Double
 ![Alt text](Assets/images/BothDevices.jpg)
 ![Alt text](Assets/images/GPIO.Double.jpg)
 ![Alt text](Assets/images/GPIO.Jim.jpg)
+
 <br/>
+
 3. After that, While **holding down the boot button** on the back of the device by using a pin or the metal stylus included with the Double Barrel, **connect the ESP32 programmer to your PC USB port**. This action will put the device into bootloader/downloading mode.
 
 ![Alt text](Assets/images/bootDouble.jpg)
 ![Alt text](Assets/images/Bootslim.jpg)
+
 <br/>
+
 4. Return to Flash Download Tools, select the **COM** in the left dottom cornor and click Start, there is usually one UART device in most of the modern PC. If you could not see the UART device aka the programmer, you might need to install [the driver](https://github.com/HoneyHoneyTeam/ESP-Programmer-for-Slim-Jim-Double-Barrel-Double-Barrel-5G/blob/main/Assets/images/CP210x.chipset.driver.for.windows.zip) for it, and re-start the program again. 
 
 ![Alt text](Assets/images/Finished.png)
+
 <br/>
+
 5. If everything goes as planned, the software will handle the rest in a minute.
 
 
