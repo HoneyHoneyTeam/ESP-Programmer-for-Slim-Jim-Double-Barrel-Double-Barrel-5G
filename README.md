@@ -33,7 +33,7 @@ To your convinence, we have provide the downlading link. If you have concern abo
    
 ![Alt text](Assets/images/ESP32.setting.png)
 
-![Alt text](Assets/images/Finished.png)
+![Alt text](Assets/images/Finished.jpg)
 <br/>
 2. Connect the ESP32 programmer to the Slim Jim / Double Barrel / Double Barrel 5G via the 4-pin cable: 
 a. 3.3V to 3.3V 
