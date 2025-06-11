@@ -61,7 +61,7 @@ The GPIO pins arrangement is identical between Slim Jim / Double Barrel / Double
 
 4. Return to Flash Download Tools, select the **COM** in the left dottom cornor and click Start, there is usually one UART device in most of the modern PC. If you could not see the UART device aka the programmer, you might need to install [the driver](https://github.com/HoneyHoneyTeam/ESP-Programmer-for-Slim-Jim-Double-Barrel-Double-Barrel-5G/blob/main/Assets/images/CP210x.chipset.driver.for.windows.zip) for it, and re-start the program again. 
 
-![Alt text](Assets/images/Finished.png)
+![Alt text](Assets/images/Finished.jpg)
 
 <br/>
 
