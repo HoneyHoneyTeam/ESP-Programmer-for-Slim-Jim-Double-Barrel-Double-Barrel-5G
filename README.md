@@ -77,11 +77,11 @@ The GPIO pins arrangement is identical between Slim Jim / Double Barrel / Double
 - In our experience, the tricky part of the proceduce is holding the boost bottom while connecting the programmer to the PC,  try a few times and you should get it right.
 
 
-## What if you want to try other firmware, like (Bruce)[https://bruce.computer/flasher], instead of Marauder on a Slim Jim, Double Barrel, or Double Barrel 5G?
+## What if you want to try other firmware, like [Bruce](https://bruce.computer/flasher), instead of Marauder on a Slim Jim, Double Barrel, or Double Barrel 5G?
 
 Well, you're in luck. You can use a similar procedure to load the firmware. Here's how:
 
-1. Open the (Bruce firmware website)[https://bruce.computer/flasher] in Google Chrome. Click "Customs Board" at the bottom of the page, and then select "Marauder V4 or V6".
+1. Open the [Bruce firmware website](https://bruce.computer/flasher) in Google Chrome. Click "Customs Board" at the bottom of the page, and then select "Marauder V4 or V6".
 2. Connect the ESP32 programmer to your device (e.g., Slim Jim, Double Barrel, or Double Barrel 5G).
 3. While holding the boot button on the device, connect the programmer to a USB port on your PC.
 4. If successful, a COM port should appear in the pop-up window. Select it and allow Chrome to handle the rest of the process.
