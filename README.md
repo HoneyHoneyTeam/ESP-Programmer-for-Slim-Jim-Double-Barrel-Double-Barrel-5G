@@ -78,6 +78,7 @@ There is usually one UART device in most of the modern PC. If you could not see 
 - If you have bricked the Marauder by accidentially using the wrong Marauder bin file, you could revived the device using the this tutorial.
 - In our experience, the tricky part of the proceduce is holding the boost bottom while connecting the programmer to the PC,  try a few times and you should get it right.
 
+<br/>
 
 ## What if you want to try other firmware, like [Bruce](https://bruce.computer/flasher), instead of Marauder on a Slim Jim, Double Barrel, or Double Barrel 5G?
 
