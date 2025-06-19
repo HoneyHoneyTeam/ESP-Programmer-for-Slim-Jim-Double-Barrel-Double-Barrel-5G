@@ -108,7 +108,6 @@ To all our clients who purchased items from our shop, whether from Etsy, eBay, T
 
 <br/>
 
-## FAQ 
 
 ## Credibility
 - Credit of Marauder Firmware goes to <ins>@JustCallmeCoco</ins>
