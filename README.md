@@ -91,4 +91,30 @@ Well, you're in luck. You can use a similar procedure to load the firmware. Here
 
 If you would like to **roll back to Marauder**, you can use the "Flash Download Tools" to do so, as described in the first half of this tutorial.
 
+## Our official shop if you would like to support us.  
+1. [Our official site](https://honeyhoneylab.com/)
+2. [Tindie](https://www.tindie.com/stores/honeyhoneytrading/)
+3. ~~[ETSY Shop](https://www.etsy.com/au/shop/HoneyHoneyTrading)~~
 
+<br/>
+
+## Warrenty and Tech Support
+
+We provide a 1-year warranty on all our products and tech support, unless stated otherwise in the product description.
+
+FYI, our [Etsy](https://www.etsy.com/au/shop/HoneyHoneyTrading) shop is no longer in operation. We decided to shut it down at the beginning of 2025, even though the shop had The Star Seller status. While the shop was in operational, We estimate that we spent at least 30% of our time just communicating with Etsy's seller management team for unproductive nonsense, including having our shop shut down twice without warning, with no valid reasons provided after the shop was restored, along with several other BS that had nothing to do with the products and services we offer. 
+
+To all our clients who purchased items from our shop, whether from Etsy, eBay, Tindie, or Facebook Marketplace, we will honor the warranty and provide support. Please feel free to email us at Support@honeyhoneylab.com. or [Whatsapp](https://wa.me/61452559581) 
+
+<br/>
+
+## FAQ 
+
+## Credibility
+- Credit of Marauder Firmware goes to <ins>@JustCallmeCoco</ins>
+- Credit of Bruce firmware goest to [Bruce.computer](https://bruce.computer/) 
+
+<br/>
+
+## Metadata / keywords / about for bots ##
+flipper zero, flipper, wifi board, marauder,5G wifi, bw16, network security, esp32, cc1101, nrf24, subghz, 2.4ghz, wifi, GPS
