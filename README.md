@@ -91,6 +91,16 @@ Well, you're in luck. You can use a similar procedure to load the firmware. Here
 
 If you would like to **roll back to Marauder**, you can use the "Flash Download Tools" to do so, as described in the first half of this tutorial.
 
+## Could the Double Barrel 5G work with other Flipper Zero firmware, rather than Momentum?
+
+We believe the 5G FAP is compatible with most firmware versions.
+
+However, there is one caveat. When we checked the latest Unleashed firmware (as of 10 July 2025), we were unable to locate the UART setting for changing the ESP32/8266 GPIO pins (from the default 13/14 to 15/16) in the Unleashed documentation. It’s possible this setting is referred to differently in the Unleashed firmware.
+
+We worked around this by first using a Flipper running the Momentum firmware, where we configured the GPIO pins to 15/16. Then, we used the web installer to flash the Unleashed firmware (version 081). In this case, the update process preserved the existing GPIO configuration.
+
+If you’re planning to use Unleashed with the Double Barrel 5G, this could be one way to get it working.
+
 ## Our official shop if you would like to support us.  
 1. [Our official site](https://honeyhoneylab.com/)
 2. [Tindie](https://www.tindie.com/stores/honeyhoneytrading/)
